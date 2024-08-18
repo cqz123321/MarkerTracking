@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from BlackMarker import MarkerTrackerBlack
-from BlackCounter import CameraProcessorBlack   
+from BlackContour import CameraProcessorBlack   
 
 import cv2
 import numpy as np
